@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... A non or profit web app 
+Hello, I'm Robert, a simple guy, I like long walks, puppies, questioning the existance of a multiverse, and coding. Hope to collab soon with more devs. 
+
+- 🌱 I’m currently learning ...A new programing language
 - 👯 I’m looking to collaborate on ... A fun and unique project
 .- 💬 Ask me about ... That is a good looking question
 - 📫 How to reach me: ... robertjtaveras@gmail.com
